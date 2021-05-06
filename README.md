@@ -2,16 +2,9 @@
 The original Whirl media player
 
 Latest release is 0.5
-
+a lite player for lite users!
 ```
 CHANGELOG
-
-Under Development features for release 1.0.alpha
-> TBA (to be added)
-  > Volume Bar
-    > Change volume from Full to any
-  > Seeking Bar
-    > Skip media
 
 0.5
 > added Buttons
@@ -20,7 +13,7 @@ Under Development features for release 1.0.alpha
   > Stop
 > added initial Color Theme
   > Lite Blue
-> Display media name
+> display media name
 
 0b:
 > initial release
@@ -28,4 +21,19 @@ Under Development features for release 1.0.alpha
   > Media only played with full volume
   > just one button
     > open file
+```
+
+```
+FUTURE NOTES:
+> v1.0
+  > Volume Bar
+  > Seeking Bar
+> v1.1
+  > create playlist
+  > skip media
+> v1.2
+  > run files from internet
+> v1.3
+  > visualisations
+NOTE: OUR PLANS MIGHT CHANGE
 ```
