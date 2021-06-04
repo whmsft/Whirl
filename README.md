@@ -28,6 +28,7 @@ FUTURE NOTES:
 > v1.0
   > Volume Bar
   > Seeking Bar
+  > (maybe switching to ffmpeg)
 > v1.1
   > create playlist
   > skip media
