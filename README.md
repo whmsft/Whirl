@@ -1,4 +1,4 @@
-# Whirl (not maintained as of now)
+# Whirl (obsolete)
 The original Whirl media player
 
 Latest release is 0.5
